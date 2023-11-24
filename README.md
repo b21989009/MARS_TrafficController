@@ -1,2 +1,3 @@
-# MARS_TrafficController
-A Finite-State-Machine for Traffic Control on Mars 
+# MARS Traffic Controller
+
+### A Finite-State-Machine in Verilog HDL, for Traffic Control on Mars
